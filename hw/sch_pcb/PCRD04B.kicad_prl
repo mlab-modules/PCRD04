@@ -1,7 +1,8 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 48,
     "active_layer_preset": "",
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -23,7 +24,7 @@
       "text": true,
       "tracks": true,
       "vias": true,
-      "zones": false
+      "zones": true
     },
     "visible_items": [
       0,
@@ -51,19 +52,20 @@
       23,
       24,
       25,
-      26,
-      27,
-      28,
-      29,
-      30,
+      32,
+      33,
+      34,
+      35,
+      36,
       37,
       38
     ],
-    "visible_layers": "0001074_80000001"
+    "visible_layers": "00310f4_80000001",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "PCRD04B.kicad_prl",
-    "version": 2
+    "version": 3
   },
   "project": {
     "files": []
