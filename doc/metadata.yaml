@@ -11,6 +11,7 @@ images:
 - doc/img/PCRD04B_QRcode.png
 - doc/gen/PCRD04B-schematic.svg
 mark: 50
+mod_ibom: hw/cam_profi/ibom/PCRD04B-ibom.html
 mod_scheme: doc/gen/PCRD04B-schematic.pdf
 tags:
 - cosmic-rays
