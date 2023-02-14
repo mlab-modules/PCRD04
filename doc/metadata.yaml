@@ -1,0 +1,19 @@
+description: Silicon PIN diode cosmic radiation detector
+github_branch: PCRD04B
+github_repo: PCRD04
+github_url: https://github.com/mlab-modules/PCRD04
+homepage: false
+images:
+- doc/gen/img/PCRD04B-top.png
+- doc/gen/img/PCRD04B-bottom.png
+- doc/img/PCRD04B_bot_big.png
+- doc/img/PCRD04B_top_big.png
+- doc/img/PCRD04B_QRcode.png
+- doc/gen/PCRD04B-schematic.svg
+mark: 50
+mod_scheme: doc/gen/PCRD04B-schematic.pdf
+tags:
+- cosmic-rays
+- radiation
+- dosimeter
+title: PCRD04
