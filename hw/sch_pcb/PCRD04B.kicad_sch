@@ -6,11 +6,11 @@
 
   (title_block
     (date "%F")
-    (company "Mlab www.mlab.cz")
+    (company "MLAB www.mlab.cz")
     (comment 1 "VERSION")
-    (comment 2 "Short description \\nTwo lines are maximum")
-    (comment 3 "nickname <email@example.com>")
-    (comment 4 "BSD")
+    (comment 2 "Battery biasedPIN diode\\ncosmic radiation detector")
+    (comment 3 "Martin Kakona <kakl@mlab.cz>")
+    (comment 4 "GPL 3")
   )
 
   (lib_symbols
