@@ -2,19 +2,19 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/PCRD04B.kicad_sch</source>
-    <date>Tue Feb 14 07:58:30 2023</date>
-    <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
+    <date>Wed Apr 12 15:22:41 2023</date>
+    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
-        <company>Mlab www.mlab.cz</company>
+        <company>MLAB www.mlab.cz</company>
         <rev/>
         <date>%F</date>
         <source>PCRD04B.kicad_sch</source>
         <comment number="1" value="VERSION"/>
-        <comment number="2" value="Short description \nTwo lines are maximum"/>
-        <comment number="3" value="nickname &lt;email@example.com&gt;"/>
-        <comment number="4" value="BSD"/>
+        <comment number="2" value="Battery biasedPIN diode\ncosmic radiation detector"/>
+        <comment number="3" value="Martin Kakona &lt;kakl@mlab.cz&gt;"/>
+        <comment number="4" value="GPL 3"/>
         <comment number="5" value=""/>
         <comment number="6" value=""/>
         <comment number="7" value=""/>
