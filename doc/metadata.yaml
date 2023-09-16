@@ -6,6 +6,7 @@ github_branches:
 github_repo: PCRD04
 github_url: https://github.com/mlab-modules/PCRD04
 homepage: false
+image: doc/img/PCRD04B_QRcode.png
 image_title: doc/img/PCRD04B_top_big.png
 images:
 - doc/img/PCRD04B_QRcode.png
