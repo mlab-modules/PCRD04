@@ -22,6 +22,7 @@ issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ibom/PCRD04B-ibom.html
 mod_scheme: doc/gen/PCRD04B-schematic.pdf
+status: 0
 tags:
 - cosmic-rays
 - radiation
